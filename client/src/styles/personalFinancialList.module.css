@@ -1,0 +1,68 @@
+.containerEntry {
+  margin: 1.5rem 0;
+}
+
+.entryIncome {
+  background-color: #55e6c1;
+  border: 1px solid lightgrey;
+  border-radius: 5px;
+  display: flex;
+  height: 70px;
+  padding: 10px;
+  margin: 5px 0;
+}
+
+.entryExpanse {
+  background-color: #fea47f;
+  border: 1px solid lightgrey;
+  border-radius: 5px;
+  color: #2c3a47;
+  display: flex;
+  align-items: center;
+  height: 70px;
+  padding: 10px;
+  margin: 5px 0;
+}
+
+.containerDay {
+  width: 5%;
+}
+
+.entryDay {
+  background-color: #2c3a47;
+  color: whitesmoke;
+  display: inline-block;
+  font-weight: bold;
+  text-align: center;
+  width: 30px;
+  height: 30px;
+  border-radius: 50%;
+}
+
+.containerInfoEntry {
+  display: flex;
+  flex-direction: column;
+  width: 70%;
+}
+
+.entryCategory {
+  font-size: 1.5rem;
+  font-weight: bold;
+}
+
+.entryDescription {
+  font-size: 1.25rem;
+}
+
+.containerValue {
+  width: 15%;
+}
+
+.entryValue {
+  font-size: 2rem;
+}
+
+.containerBtnAction {
+  width: 10%;
+  text-align: right;
+}

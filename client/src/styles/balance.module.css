@@ -1,0 +1,19 @@
+.footerBalance {
+  align-items: center;
+  background-color: #00b894;
+  display: flex;
+  justify-content: space-between;
+  padding: 1rem 1rem;
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+}
+
+.labelInputBalance {
+  color: #dfe6e9;
+  display: block;
+  font-size: 1rem;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
